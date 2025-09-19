@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nievesandresdev/fastysystem-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nievesandresdev/fastysystem-frontend.git
+[submodule "electron"]
+	path = electron
+	url = https://github.com/nievesandresdev/fastysystem-electron.git
